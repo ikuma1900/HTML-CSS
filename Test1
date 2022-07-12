@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name=”viewport” content=”width=device-width,initial-scale=1.0″>
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="description" content="Webエンジニア輩出No1！実践的なカリキュラムと経験豊富なエンジニア陣がレベルの高いプログラミング学習をサポートします。実績豊富なメンバーがプログラミング学習からエンジニア転職までまるっとサポートいたします！">
+        <meta name="keywords" content="プログラミングスクール,プログラミング学習,プログラミング学校,プログラミングオンラインスクール,エンジニア転職">
+        <!-- favicon -->
+        <link rel="icon" type="image/png" href="/wp-content/themes/potepancamp/potepancampfavicon16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/wp-content/themes/potepancamp/potepancampfavicon32.ico" sizes="32x32">
+        <!--OGP-->
+        <meta property="og:site_name" content="ポテパンキャンプ - Webエンジニア輩出No1プログラミングスクール">
+        <meta property="og:title" content="ポテパンキャンプ - Webエンジニア輩出No1プログラミングスクール">
+        <meta property="og:description" content="Webエンジニア輩出No1！実践的なカリキュラムと経験豊富なエンジニア陣がレベルの高いプログラミング学習をサポートします。実績豊富なメンバーがプログラミング学習からエンジニア転職までまるっとサポートいたします！">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://camp.potepan.com">
+        <meta property="og:image" content="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/ogp/common.png">
+        <meta property="twitter:image" content="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/ogp/common.png">
+        <meta name="twitter:card" content="summary_large_image">
+        <title>サイト模写</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+    <body>
+        
+        <header class="headertop">
+            
+            <div class="headermoji">
+            <a class="logo" href="https://camp.potepan.com/">
+             <img class="potepan" src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/header-logo.png.webp" alt="POTEPAN"></img>
+            </a>
+            
+            <nav class="headnav">
+            <div class="atama">
+            <span class="atamaline"></span>
+            <span class="atamaline"></span>
+            <span class="atamaline"></span>
+            </div>
+            <ul class="headul">
+            <li class="head">
+            <a class="topmoji"href="https://camp.potepan.com/content"><span>CONTENT</span><span>学習内容</span></a>
+            </li>
+            <li class="head">
+            <a class="topmoji"href="https://camp.potepan.com/interview"><span>INTERVIEW</span><span>学生の声</span></a>
+            </li>
+            <li class="head">
+            <a class="topmoji"href="https://camp.potepan.com/faq"><span>FAQ</span><span>よくある質問</span></a>
+            </li>
+            <li class="head">
+            <a class="topmoji"href="https://camp.potepan.com/recruit"><span>RECRUIT</span><span>採用企業様へ</span></a>
+            </li>
+            <li class="head">
+            <a class="topmoji"href="https://camp.potepan.com/download"><span>DOCUMENT</span><span>資料請求</span></a>
+            </li>
+            <li class="head">
+            <a class="botan"href="/contact" https://camp.potepan.com/contact>無料カウンセリング</a>
+            </li>
+            </ul>
+            </div>
+            </nav>
+            
+            </div>
+            
+        </header>
+     
+     <main> 
+     
+     <section class="section1">
+    <img class="sectionimg" src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero-sp.jpg" alt="男の子">
+    <div class="mannnaka">
+      <div class="center">
+          <h2 class="saitann">最短５ヶ月間で<br>未経験からWebエンジニアへ</h2>
+          <div class="centerimg">
+           <img src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/100percent@2x.svg" alt="100%"></img>
+           <img src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/no1@2x.svg" alt="No1"></img>
+           <img src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/refund@2x.svg" alt="全額返金"></img>
+        </div>
+        
+       <div class="centerbotan">
+       <a class="muryou" href="https://camp.potepan.com/contact">無料カウンセリングはこちら</a>
+        <a class="siryou" href="https://camp.potepan.com/download">資料請求はこちら</a>
+        </div>
+        </div>
+        
+        
+        <p class="centermoji">※1: ショッパーズアイ「プログラミングスクール10社を対象にしたサイト比較イメージ調査（2020 年 5 月 22 日～25 日）」より全国の22～49歳の男女691名へのインターネット調査
+        <br>※2: 29歳以下の転職サポート実施ユーザ（2021年7月~10月）
+        <br>※3: 返金の条件については<a href="https://camp.potepan.com/terms">利用規約</a>をご参照ください
+        </p>
+        </div>
+        </div>
+        
+        </section>
+        
+        <div class="orange">
+            <section class="orangemain">
+              <video class="douga"src="https://res.cloudinary.com/hqt02ldfz/video/upload/v1650946041/IntroductionMovie/PotepanCamp/movie_sxheh6.mp4" poster="https://res.cloudinary.com/hqt02ldfz/image/upload/v1650946026/IntroductionMovie/PotepanCamp/thumbnail_retspb.jpg" controls playsinline prelord="none"muted autoplay></video>
+              <div class="orangemoji">
+                  <h2><span>POTEPAN CAMP</span><br>とは</h2>
+                  <p>ポテパンキャンプは、Web系開発現場で通用するスキルを身につけるための教育プログラムです。実践的でわかりやすいカリキュラムと適切な学習サポートで効率的に学習できる環境を用意しております。</p>
+                  <a class="orangebuttun" href="https://camp.potepan.com/content"><img src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/about/arrow-icon.svg" alt="右" data-src="https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/about/arrow-icon.svg">学習内容はこちら</a>
+              </div>
+            </section>
+        </div>
+        
+        </main>
+    </div>
+    </body>
+</html>
+
+<style>
+
+
+
+
+html{
+    -webkit-text-size-adjust: 100%;
+}
+
+body{
+    color: #000;
+    font-family: "游ゴシック",YuGothic,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
+    font-size: 14px;
+    font-weight: 500;   
+}
+
+body{
+    -webkit-font-smoothing: antialiased;
+}
+
+header{
+    display: block;
+}
+
+*,*:before, *:after {
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 767px){
+.headertop{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+}
+
+@media screen and (max-width: 1080px){
+.headertop {
+    background-color: #fff;
+    z-index: 10;
+}
+}
+
+@media screen and (max-width: 1080px){
+.headertop{
+    position: fixed !important;
+}
+}
+
+.headertop{
+    width: 100%;
+    positon:absolute;
+}
+
+.headertop{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+
+.HeaderContainer>*:last-child{
+    display: inline-flex;
+}
+
+.headermoji{
+    display:flex;
+    justify-content: space-between;
+    margin: 0 36px;
+    max-width: 100%;
+    position: relative;
+}
+
+
+@media screen and (max-width: 767px){
+.headermoji{
+    max-width: 100%;
+    margin: 0 20px;
+}
+}
+
+@media screen and (min-width: 768px){
+.Logo{
+    transition: opacity .2s;
+}
+}
+
+
+@media screen and (max-width: 1080px){
+.topmoji{
+    padding: 20px 0;
+}
+}
+
+@media screen and (max-width: 1080px){
+.topmoji>span:first-child{
+    font-size: 16px;
+    letter-spacing: 5px;
+    color: #fff;
+}
+}
+
+@media screen and (max-width: 1080px){
+.topmoji>span:last-child{
+    font-size: 12px;
+    margin-top: 10px;
+    color: #f79214;
+    letter-spacing: 2px;   
+}
+}
+
+.topmoji{
+    display:block;
+}
+
+
+.topmoji>span:first-child{
+    font-family: 'Lato',sans-serif;
+}
+
+.topmoji>span:last-child{
+    font-size: 10px;
+}
+
+.topmoji>span{
+    display: block;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
+
+.head{
+    margin-right: 45px
+}
+
+@media screen and (max-width: 1080px){
+.head{
+    margin-right: 0;
+}
+}
+
+@media screen and (min-width: 768px){
+.head{
+    transition: opacity .2s;
+}
+}
+
+@media screen and (max-width: 1080px){
+.head:last-of-type {
+    margin-top: 20px;
+}
+}
+
+
+.head:last-of-type{
+    margin-right: 0;
+}
+
+.atama{
+    display:none;
+}
+
+@media screen and (max-width: 1080px){
+.atama{
+    cursor: pointer;
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 21px;
+    z-index: 100;
+}
+}
+
+
+@media screen and (max-width: 1080px){
+.atamaline:first-child {
+    top: 0;
+}
+}
+
+
+@media screen and (max-width: 1080px){
+.atamaline{
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 100%;
+    height: 3px;
+    background-color: #000;
+    transform: translate(0,-50%);
+    border-radius: 10px;
+    transition: top .2s,transform .2s,opacity .3s;
+}
+}
+
+@media screen and (max-width: 1080px){
+.atamaline:last-child {
+    top: 100%;
+}
+}
+
+
+
+.headul{
+    align-items:center;
+    display:flex;
+    justify-content:space-between;
+}
+
+
+@media screen and (max-width: 767px){
+.headul {
+    top: 52px;
+}
+}
+
+@media screen and (max-width: 1080px){
+.headul{
+    overflow-y: scroll;
+    position: fixed;
+    top: 60px;
+    left: 100%;
+    width: 100%;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 75px;
+    transition: transform .5s;
+    z-index: 99;
+    background-color: rgba(0,0,0,.8);
+    -webkit-overflow-scrolling: touch;
+    height: 100%;
+}
+}
+
+
+
+.potepan{
+    display: block;
+    height: 20px;
+    width: auto;
+}
+
+@media screen and (max-width: 767px){
+.potepan{
+    display: none;
+}
+}
+
+body, div, p, ul,　ol, li, dl, dt, dd, table, th, td, img, figure, h1, h2, h3, h4, h5, h6, form, select{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    list-style: none;
+}
+
+
+h2{
+    display: block;
+    font-size:1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+main{
+    display:block;
+}
+
+section{
+    display:block;
+}
+
+img{
+    border: 0;
+    vertical-align: middle;
+}
+
+li{
+    text-align: -webkit-match-parent;
+    display:list-item;
+}
+
+p {
+    color: #000;
+}
+
+p {
+    line-height: 1.5;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+video {
+    object-fit: contain;
+}
+
+
+.botan:visited{
+    color: #fff;
+}
+
+@media screen and (max-width: 1080px){
+.botan{
+    font-size: 16px;
+    margin: 0 auto;
+    height: 60px;
+    width: 250px;
+}
+}
+
+@media screen and (min-width: 768px){
+.botan{
+    transition: opacity .2s;
+}
+}
+
+.botan{
+    align-items: center;
+    background-color: #f79214;
+    border: none;
+    border-radius: 38px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+    justify-content: center;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    font-size: 12px;
+    height: 40px;
+    padding: 0 20px;
+}
+
+
+
+@media screen and (max-width: 767px){
+main{
+    padding-top: 52px;
+}
+}
+
+@media screen and (max-width: 1080px){
+main{
+    padding-top: 60px;
+}
+}
+
+.section1{
+    background-image:url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+    padding-bottom: 28px;
+}
+
+@media screen and (max-width: 767px){
+.section1{
+    background-image: none;
+    padding-top: 0;
+    padding-bottom: 35px;
+}
+}
+
+.sectionimg{
+    display:none;
+    width: 100%;
+}
+
+
+
+.saitann{
+    color: #000;
+    font-family: 'Lato',sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 54px;
+    margin-bottom: 15px;
+    text-align:center;
+}
+
+@media screen and (max-width: 767px){
+.saitan{
+    font-size: 25px;
+    line-height: 36px;
+    margin-left: calc(((100vw - 100%)/2)*-1);
+    margin-right: calc(((100vw - 100%)/2)*-1);
+}
+}
+
+.mannnaka{
+    max-width: 1140px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+@media screen and (max-width: 767px){
+.mannnaka{
+margin-top: -45vw;
+}
+}
+
+
+@media screen and (max-width: 767px){
+.mannnaka{
+    max-width: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+}
+
+
+.center{
+    margin-bottom: 70px;
+    width: fit-content;
+}
+
+@media screen and (max-width: 767px){
+.center{
+    margin-bottom: 20px;
+    width: 100%;
+}
+}
+
+.centerimg img{
+    margin-right: 8px;
+}
+
+.centerimg{
+    margin-bottom: 25px;
+}
+
+.centerimg img:nth-of-type(2) {
+    width: 40%;
+}
+
+@media screen and (max-width: 767px){
+.centerimg{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    width: 100%;
+}
+}
+ 
+.centermoji{
+    color: #a2a2a4;
+    font-size: 12px;
+}
+
+.centermoji a{
+    color: #a2a2a4;
+}
+
+.centerbotan{
+    display: flex;
+}
+
+@media screen and (max-width: 767px){
+.centerbotan{
+    flex-direction: column;
+}
+}
+
+@media screen and (min-width: 768px){
+.centerbotan a
+    {transition: opacity .2s;}
+}
+
+.centerbotan a:first-of-type{
+    margin-right: 15px;
+    width: 306px;
+}
+
+.centerbotan a :visited{
+    color:white;
+}
+
+.centerbotan a{
+    align-items: center;
+    background-color: #f79214;
+    border: none;
+    border-radius: 38px;
+    cursor: pointer;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: 700;
+    height: 64px;
+    justify-content: center;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+}
+
+
+.centerbotan a:last-of-type {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    color: #000;
+    width: 176px;
+}
+
+.orange{
+    padding: 120px 0;
+    background-color: #f79214;
+    padding: 44px 0;
+}
+
+.orangemain{
+    max-width: 1140px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.douga{
+    width:50%;
+}
+
+.orangemoji{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 60px;
+    width: 100%;
+    align-items: flex-start;
+    margin-bottom: 0;
+    margin-left: 32px;
+}
+
+.orangemoji h2{
+    font-family: "游ゴシック",YuGothic,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
+    font-size: 38px;
+    font-weight: 900;
+    letter-spacing: .1em;
+    line-height: 54px;
+    width: 100%;
+}
+
+.orangemoji h2{
+    font-family: 'Lato',sans-serif;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 74px;
+}
+
+.orangemoji h2, .orangemoji p{
+    color: #fff;
+    text-align: left;
+}
+
+
+
+.orangemoji h2 span{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.orangemoji h2>span{
+    font-family: 'Lato',sans-serif;
+    font-size: 38px;
+}
+
+
+.orangemoji br{
+    display: none;
+}
+
+
+.orangemoji p{
+    display: inline-block;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 28px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.orangemoji p{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    margin-bottom: 16px;
+}
+
+
+.orangebuttun{
+    color: #fff;
+    display: flex;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.orangebuttun>img{
+    margin-right: 5px;
+}
+
+</style>
